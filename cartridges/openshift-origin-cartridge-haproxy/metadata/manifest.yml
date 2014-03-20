@@ -20,6 +20,7 @@ Categories:
 - scales
 - embedded
 Website: http://haproxy.1wt.eu/
+Source-Url: https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-haproxy.git
 Provides:
 - haproxy-1.4
 - haproxy
